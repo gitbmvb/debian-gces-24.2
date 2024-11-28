@@ -26,3 +26,8 @@ git commit --amend -m "Update changelog for 1.1.0-1 release"
 
 ### Issue concluída 
 No dia 27/11/2024 foi aprovado o [MR](https://salsa.debian.org/go-team/packages/golang-github-kalafut-imohash/-/merge_requests/2) referente a atualização do pacote.
+
+
+| Versão |    Data    |         Descrição          |  Autor(es)  |
+| :----: | :--------: | :------------------------: | :---------: |
+| `1.0`  | 28/11/2024 | Criação de documento | Kauã |
