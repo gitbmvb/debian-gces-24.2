@@ -7,12 +7,8 @@
 
 ### Issue: Package pytest-flake8-path #347
 
+![Issue](../img/issueShaine.png)
 
-
-
-<div style="text-align: center;">
-    <img src="/docs/img/issueShaine.png" alt="Issue" width="700px">
-</div>
 
 [Issue 347](https://salsa.debian.org/debian-brasil-team/docs/-/issues/347)
 
@@ -20,9 +16,7 @@
 
 - Finalizado
 
-<div style="text-align: center;">
-    <img src="/docs/img/mergeShaine.png" alt="MR" width="700px">
-</div>
+![MR](../img/mergeShaine.png)
 
 [Merge Request](https://salsa.debian.org/python-team/packages/pytest-flake8-path/-/merge_requests/1)
 
