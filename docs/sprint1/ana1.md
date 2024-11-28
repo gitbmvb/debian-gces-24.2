@@ -12,9 +12,7 @@
 
 - Foi feita toda a configuração normalmente mas houve um erro ao atualizar o pacote, com o comando **gbp import-orig --uscan --pristine-tar**
 
-<div style="text-align: center;">
-    <img src="../img/ana-error.png" alt="Erro" width="700px">
-</div>
+![Erro](../img/ana-error.png)
 
 | Versão |    Data    |      Descrição       |                   Autor(es)                   |
 | :----: | :--------: | :------------------: | :-------------------------------------------: |
