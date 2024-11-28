@@ -9,17 +9,17 @@
 
 ![alt text](../img/image.png)
 
+---
 
-Pacote Python que integra o **Prometheus** com aplicações **Flask**. Ele coleta e expõe métricas como:
+Pacote Python que integra o **Prometheus** com aplicações **Flask**.
 
 ### **Prometheus**:
-Ferramenta de monitoramento e alerta para sistemas em tempo real, especialmente em **arquiteturas de microserviços**.  
 
+Ferramenta de monitoramento e alerta para sistemas em tempo real, especialmente em **arquiteturas de microserviços**.
 
+### **Flask**:
 
-### **Flask**: 
-Framework **minimalista** para desenvolvimento web em Python, ideal para criar **aplicações leves e flexíveis**.  
-
+Framework **minimalista** para desenvolvimento web em Python, ideal para criar **aplicações leves e flexíveis**.
 
 ### **Integração Prometheus e Flask**
 Quando usados juntos, o **prometheus-flask-exporter** expõe métricas detalhadas de aplicações **Flask** (como número de requisições e tempo de resposta) no formato que o **Prometheus** pode monitorar e armazenar.
