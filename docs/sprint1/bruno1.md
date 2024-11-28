@@ -4,6 +4,7 @@ Relatório referente às atividades desenvolvidas na primeira sprint do projeto 
 ## Pacotes
 ### Empacotamento 101
 Pacote inicial proposto como uma introdução ao projeto de empacotamento.
+
 - Status: **Done**
 
 ### jqp
