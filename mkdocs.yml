@@ -1,0 +1,58 @@
+site_name: debian-gces-24.2
+site_description: Documentação da disciplina de GCES 24.2 do grupo Debian
+
+repo_name: debian-gces-24.2
+repo_url: https://github.com/gitbmvb/debian-gces-24.2
+site_url: https://github.com/gitbmvb/debian-gces-24.2
+
+copyright: Copyright &copy; 2024 Debian GCES 24.2  
+
+theme:
+  name: material
+  language: pt-BR
+  logo: img/logo-debian.png
+  favicon: img/icon-debian.png
+  icon:
+    repo: fontawesome/brands/github-alt
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - content.action.edit
+    - content.action.view
+    - navigation.top
+    - content.tabs.link
+    - content.code.annotation
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: red
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+    - scheme: slate
+      primary: red
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
+
+nav:
+  - Home: index.md
+  - Sprint 1:
+    - Sprint Planning: sprint1/planning1.md
+    - Ana Beatriz: sprint1/ana1.md
+    - Bruno: sprint1/bruno1.md
+    - Douglas: sprint1/douglas1.md
+    - Geovanna: sprint1/geovanna1.md
+    - João Lucas: sprint1/jl1.md
+    - João Pedro: sprint1/jp1.md
+    - Kauã: sprint1/kaua1.md
+    - Luan: sprint1/luan1.md
+    - Shaíne: sprint1/shaine1.md
