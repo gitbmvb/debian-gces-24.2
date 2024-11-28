@@ -1,4 +1,4 @@
-# GCES - 2024.2 - Debian
+# Empacotamento no Debian
 
 <div align="center">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0pzgvmH8ZBiHMzUpXBGO5QRp1SVF0T7jWA&s" style="width:25vw"/>

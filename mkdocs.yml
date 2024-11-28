@@ -46,7 +46,7 @@ extra:
 nav:
   - Home: index.md
   - Sprint 1:
-    - Sprint Planning: sprint1/planning1.md
+    - Planning da Sprint: sprint1/planning1.md
     - Ana Beatriz: sprint1/ana1.md
     - Bruno: sprint1/bruno1.md
     - Douglas: sprint1/douglas1.md

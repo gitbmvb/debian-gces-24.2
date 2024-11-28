@@ -6,7 +6,9 @@
 </div>
 
 ## Sobre
-   Este repositório é dedicado a contribuições com empacotamento do sistema operacional Debian da disciplina de Gerência de Configuração e Evolução de Software.
+   Este repositório é dedicado a contribuições com empacotamento do sistema operacional Debian da disciplina de [Gerência de Configuração e Evolução de Software](https://github.com/FGA-GCES/A-disciplina).
+   
+   Meta-Coach: [Guilherme Puida](https://github.com/guilherme-puida)
 
 ## Contribuidores
 <center>
