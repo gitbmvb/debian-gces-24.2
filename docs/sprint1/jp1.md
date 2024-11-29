@@ -6,6 +6,8 @@ Foi feita uma nova atualização do upstream, que gerou um patch de correções 
 
 [link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/333)
 
+edit: Problemas no pacote resolvidos na reunião semanal do debian e pacote enviado devidamente para revisão. Um patch adicional foi realizado para corrigir o teste em golang.
+
 ### Melhora da Wiki Debian Brasil
 
 Atualizações em duas páginas da wiki, adicionando instruções adicionais sobre a atualização do schroot e do guia de gerenciamento de patches.
