@@ -14,7 +14,7 @@ Para concluir a issue, foi necessário apenas seguir os passos disponíveis no [
 
 1 - Ao rodar sbuild, um erro descrito na imagem 1 relacionado a tarball era disparado:
 
-![Erro Mando](img/kaua_erro_mando.png)
+![Erro Mando](../img/kaua_erro_mando.png)
 
 Para solucionar o erro, foi necessário executar o comando:
 
