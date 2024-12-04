@@ -4,8 +4,10 @@
 
 Correções adicionais foram necessárias para esse pacote, o patch de correção dos testes em análise posterior não resolvia tão bem o problema e chegamos à conclusão de modificar o teste para pulá-lo.
 Além disso, houve a necessidade de alterar o arquivo debian/copyright com atualização das licensas usadas pelo pacote ( e também corrigir um erro do mantenedor sobre o range dessas licensas).
+Com isso, o pacote foi aprovado e o MR, merjado.
 
-[link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/333)
+[Link do MR](https://salsa.debian.org/go-team/packages/golang-k8s-apimachinery/-/merge_requests/1?commit_id=4bb8331c1ccc3b179ba0fa3993acfaeeec693aea)
+[Link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/333)
 
 ### Guia de uso do ratt
 
