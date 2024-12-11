@@ -7,6 +7,7 @@ Além disso, houve a necessidade de alterar o arquivo debian/copyright com atual
 Com isso, o pacote foi aprovado e o MR, merjado.
 
 [Link do MR](https://salsa.debian.org/go-team/packages/golang-k8s-apimachinery/-/merge_requests/1?commit_id=4bb8331c1ccc3b179ba0fa3993acfaeeec693aea)
+
 [Link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/333)
 
 [Pacote migrado para Testing](https://tracker.debian.org/news/1591560/golang-k8s-apimachinery-0313-1-migrated-to-testing/)
@@ -19,6 +20,7 @@ Esse pacote não possui depêndencias a serem atualizadas, diferente de diversos
 será viável ser feito na reunião semanal do Debian Brasil, após o "show me the code" de hoje.
 
 [Link do MR](https://salsa.debian.org/go-team/packages/golang-k8s-sigs-json/-/merge_requests/1)
+
 [Link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/360)
 
 ### Guia de uso do ratt
