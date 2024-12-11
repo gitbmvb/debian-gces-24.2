@@ -33,10 +33,41 @@ Por conta da necessidade do pacote de atualizar 3 branches diferentes, foram abe
 2 - [Upstream](https://salsa.debian.org/python-team/packages/mando/-/merge_requests/3) <br/>
 3 - [Pristine-tar](https://salsa.debian.org/python-team/packages/mando/-/merge_requests/4) <br/>
 
-Até o dia 03/12/2024 ainda estão em processo de revisão.
+Até o dia 11/12/2024 ainda estão em processo de revisão.
+
+## Pacote Golang Barcode
+
+O pacote Barcode permite com que o usuário crie diferentes tipos de código de barras. Seu repositório no salsa esta disponível [neste link](https://salsa.debian.org/go-team/packages/golang-barcode). 
+
+## Issue 
+
+Objetivo: Gerar nova versão upstream para o pacote , atualizando-o para a versão indicada no [Tracker](https://tracker.debian.org/pkg/golang-barcode).
+
+### Execução
+
+Para concluir a issue, foi necessário apenas seguir os passos disponíveis no [repositório do semetre anterior da disciplina](https://mylena-angelica.github.io/Debian-GCES-24.1/tutoriais/atualizacao_upstream/).
+
+### Status da issue
+Foi aberto apenas um MR. Até o dia 11/12/2024 ainda estão em processo de revisão.
+
+## Pacote Golang a8m-tree
+
+O pacote a8m-tree é a implementação do comando "tree" mas escrito na linguagem Golang. Seu repositório no salsa esta disponível [neste link](https://salsa.debian.org/go-team/packages/golang-github-a8m-tree). 
+
+## Issue 
+
+Objetivo: Gerar nova versão upstream para o pacote , atualizando-o para a versão indicada no [Tracker](https://tracker.debian.org/pkg/golang-github-a8m-tree).
+
+### Execução
+
+Para concluir a issue, foi necessário apenas seguir os passos disponíveis no [repositório do semetre anterior da disciplina](https://mylena-angelica.github.io/Debian-GCES-24.1/tutoriais/atualizacao_upstream/).
+
+### Status da issue
+Foi aberto apenas um MR. Até o dia 11/12/2024 ainda estão em processo de revisão.
 
 ## Versão
 
 | Versão |    Data    |         Descrição          |  Autor(es)  |
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 03/11/2024 | Criação de documento e atualização do status do pacote| Kauã |
+| `1.1`  | 11/12/2024 | Adição de informações      | Kauã|
