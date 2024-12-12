@@ -75,7 +75,7 @@ Esse pacote é um cliente Ruby para o **Unleash**, uma ferramenta de **feature t
 
 Após fazer os passos para atualização de pacote, quando o comando `gbp buildpackage` é executado novamente para construir novamente o pacote o Build falha e ocorre problemas com as dependencias, quando a nova versão é importada, o pacote continua com dependências antigas.
 
-![alt text](../img/erro-ana2.png.png)
+![alt text](../img/erro-ana2.png)
 
 
 
