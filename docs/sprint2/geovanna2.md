@@ -23,3 +23,6 @@ Essa issue precisava de atualização do upstream e um patch. Houveram alguns pr
 Mautrix-python é uma biblioteca em Python desenvolvida para facilitar a criação de bots e bridges (pontes) para o Matrix, uma plataforma de comunicação descentralizada e de código aberto. O Matrix permite mensagens instantâneas, chamadas de voz/vídeo e troca de arquivos entre usuários em diferentes servidores, mantendo interoperabilidade e privacidade.
 
 Essa issue necessitava da atualizaçã do upstream e foi um package de teste pra saber se o problema estava no package ``python-agate`` ou na minha máquina mesmo. Com o teste eu concluí que o problema era técnico mesmo, portanto vou reconfigurar minha máquina pra poder finalizar essas duas issues.
+
+* MR [https://salsa.debian.org/python-team/packages/mautrix-python/-/merge_requests/1](https://salsa.debian.org/python-team/packages/mautrix-python/-/merge_requests/1)
+* Repositório no Salsa: [https://salsa.debian.org/python-team/packages/mautrix-python](https://salsa.debian.org/python-team/packages/mautrix-python)
