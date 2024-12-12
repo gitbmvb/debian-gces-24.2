@@ -52,7 +52,9 @@ sign-tags = False
 
 #
 
-## **Issue: Package ruby-unleash #281**
+---
+
+# **Issue: Package ruby-unleash #281**
 
 
 - [Link para Issue 348](https://salsa.debian.org/debian-brasil-team/docs/-/issues/281)
@@ -63,8 +65,11 @@ Essa é uma issue do semestre passado que foi aberta novamente.
 
 ![alt text](../img/ruby-unleash.png)
 
+---
 
 Esse pacote é um cliente Ruby para o **Unleash**, uma ferramenta de **feature toggling** (controle de funcionalidades) que permite controlar a ativação e desativação de funcionalidades em tempo real, sem precisar alterar o código ou realizar novos deploys.
+
+---
 
 ## Erro (Sprint 2)
 
