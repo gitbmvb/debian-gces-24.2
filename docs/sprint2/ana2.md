@@ -11,18 +11,9 @@
 
 ---
 
-Pacote Python que integra o **Prometheus** com aplicações **Flask**.
 
-### **Prometheus**:
-
-Ferramenta de monitoramento e alerta para sistemas em tempo real, especialmente em **arquiteturas de microserviços**.
-
-### **Flask**:
-
-Framework **minimalista** para desenvolvimento web em Python, ideal para criar **aplicações leves e flexíveis**.
-
-### **Integração Prometheus e Flask**
-Quando usados juntos, o **prometheus-flask-exporter** expõe métricas detalhadas de aplicações **Flask** (como número de requisições e tempo de resposta) no formato que o **Prometheus** pode monitorar e armazenar.
+Esse pacote, `prometheus-flask-exporter`, integra o Flask com o Prometheus, permitindo exportar métricas de desempenho da aplicação web para monitoramento.
+Ele fornece contadores, histogramas e métricas de latência de requisições HTTP.
 
 --- 
 
@@ -59,7 +50,33 @@ sign-tags = False
 
 - [Link para o MR](https://salsa.debian.org/python-team/packages/prometheus-flask-exporter/-/merge_requests/5). (Esperando aprovação...)
 
+#
+
+## **Issue: Package ruby-unleash #281**
+
+
+- [Link para Issue 348](https://salsa.debian.org/debian-brasil-team/docs/-/issues/281)
+
+Essa é uma issue do semestre passado que foi aberta novamente.
+
+## **Ruby-unleash**
+
+![alt text](../img/ruby-unleash.png)
+
+
+Esse pacote é um cliente Ruby para o **Unleash**, uma ferramenta de **feature toggling** (controle de funcionalidades) que permite controlar a ativação e desativação de funcionalidades em tempo real, sem precisar alterar o código ou realizar novos deploys.
+
+## Erro (Sprint 2)
+
+Após fazer os passos para atualização de pacote, quando o comando `gbp buildpackage` é executado novamente para construir novamente o pacote o Build falha e ocorre problemas com as dependencias, quando a nova versão é importada, o pacote continua com dependências antigas.
+
+![alt text](../img/erro-ana2.png.png)
+
+
+
 
 | Versão |    Data    |      Descrição       |                   Autor(es)                   |
 | :----: | :--------: | :------------------: | :-------------------------------------------: |
 | `1.0`  | 28/11/2024 | Criação de documento | [Ana Beatriz](https://github.com/ananorberto) |
+| `1.1`  | 12/12/2024 | Atualização          | [Ana Beatriz](https://github.com/ananorberto) |
+
