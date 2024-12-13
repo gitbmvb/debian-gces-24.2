@@ -16,8 +16,10 @@ Com isso, o pacote foi aprovado e o MR, merjado.
 ### Pacote golang-k8s-sigs-json
 
 Mais uma atualização de Upstream, seguindo a atualização de diversas dependências dos pacotes do K8s para a versão 0.31.x.
-Esse pacote não possui depêndencias a serem atualizadas, diferente de diversos pacotes no monolito K8s. O trabalho de atualização nesse pacote foi simples, mas as alterações no arquivo d/copyright necessitarão de revisões adicionais de DDs, que só 
-será viável ser feito na reunião semanal do Debian Brasil, após o "show me the code" de hoje.
+Esse pacote não possui depêndencias a serem atualizadas, diferente de diversos pacotes no monolito K8s. O trabalho de atualização nesse pacote foi simples, porém, o d/copyright estava consideravelmente desorganizado, com nomes errados de licença
+e referências duplicadas nas sessões de copyrights como melhor percebido no diff abaixo:
+
+![Diff](./assets/jp_diff.png)
 
 [Link do MR](https://salsa.debian.org/go-team/packages/golang-k8s-sigs-json/-/merge_requests/1)
 
@@ -29,4 +31,4 @@ Durante o processo de contribuição do pacote do apimachinery, foi necessário 
 Então após conseguir configurar o ratt e fazer sua pinagem para não conflitar com os pacotes da distro utilizada, fiz uma contribuição à documentação da turma anterior e posteriormente pretendo adicioná-la
 também à wiki do Debian Brasil, após revisá-la com o grupo.
 
-Disponível [aqui](https://github.com/Mylena-angelica/Debian-GCES-24.1/blob/main/docs/tutoriais/tutorial_ratt.md)
+Disponível [aqui](https://mylena-angelica.github.io/Debian-GCES-24.1/tutoriais/tutorial_ratt/)
