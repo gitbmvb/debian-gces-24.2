@@ -7,7 +7,6 @@ O Yattag pode preencher seus formulários HTML com valores padrão e mensagens d
 
 ### Status da issue
 
-- Review
 
 ![Issue](../img/issue308.png)
 
@@ -16,6 +15,11 @@ O Yattag pode preencher seus formulários HTML com valores padrão e mensagens d
 
 ![MR](../img/MR308.png)
 
+- Após review da issue, foi adicionado um comentário que o pacote já estava na sua atualização mais recente e não "valia a pena" carregar o pacote apenas para atualizar a versão do Standards.
+
+"Olá @Shaine_oliveira, infelizmente outra pessoa já fez as mesmas alterações que você e carregou o pacote no mês passado.
+Se você abrir o yattag no tracker, verá que o upstream já está na versão mais recente. A versão Standards do pacote ainda está desatualizada, mas não vale a pena carregar o pacote apenas para esta única alteração.
+Uma coisa que você pode fazer é atualizar o repositório git, já que o upload mais recente não foi incluído lá [...]."
 
 ## Issue ruby-factory-bot-rails #119
 
@@ -27,9 +31,16 @@ O FactoryBot é uma ferramenta muito utilizada em desenvolvimento de projetos Ru
 ## Status da Issue
  Após importar a nova versão upstream, o build apresentou erro ao construir o pacote novamente.
 
- [Erro](https://paste.debian.net/1339398)
+ ![Erro](../img/erroRuby.jpg)
+
+ No entanto, foi abordado na reunião semanal do Debian que o pacote [ruby-factory-bot](https://tracker.debian.org/pkg/ruby-factory-bot) estava desatualizado e necessitaria atualizá-lo antes de dar continuidade na issue. Dessa forma, eu criei a issue para prosseguir com o prosseguimento que já está em "Review".
+
+ - Issue #375
+
+ ![Issue #375](../img/issue375.png)
 
 
 | Versão |    Data    |         Descrição          |  Autor(es)  |
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 11/12/2024 | Criação de documento | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| `1.1`  | 16/12/2024 | Atualiza status da issues | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
