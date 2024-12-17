@@ -29,7 +29,7 @@ e referências duplicadas nas sessões de copyrights como melhor percebido no di
 
 Pacote atual que estou atualizando, o trabalho começa a ficar mais interessante, com a atualização desse pacote necessitando de pular um caso de teste que dependia de acesso à internet.
 O pacote do apimachinery resolveu isso através de um patch, já esse pacote necessitou da adição de um campo adicional no arquivo debian/rules, removendo esse caso de teste antes da build do pacote.
-O MR dessa atualização já foi feito, e estou realizando correções em cima do que foi revisado.
+O MR dessa atualização já foi feito, e está no processo de revisão.
 
 [Link do MR](https://salsa.debian.org/go-team/packages/golang-k8s-sigs-release-utils/-/merge_requests/1)
 
