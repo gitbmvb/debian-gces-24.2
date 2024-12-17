@@ -25,6 +25,25 @@ e referências duplicadas nas sessões de copyrights como melhor percebido no di
 
 [Link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/360)
 
+### Pacote golang-k8s-sigs-release-utils
+
+Pacote atual que estou atualizando, o trabalho começa a ficar mais interessante, com a atualização desse pacote necessitando de pular um caso de teste que dependia de acesso à internet.
+O pacote do apimachinery resolveu isso através de um patch, já esse pacote necessitou da adição de um campo adicional no arquivo debian/rules, removendo esse caso de teste antes da build do pacote.
+O MR dessa atualização já foi feito, e estou realizando correções em cima do que foi revisado.
+
+[Link do MR](https://salsa.debian.org/go-team/packages/golang-k8s-sigs-release-utils/-/merge_requests/1)
+
+[Link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/379)
+
+- #### Pristine-tar
+
+Além disso, o pacote não possui a branch pristine-tar. Essa branch abriga todos os tarballs de origem do upstream e os seus metadados do repositório git. Ela não guarda o código fonte em si, 
+mas todas as informações necessárias para reconstruir o tarball do upstream de maneira compacta.
+Logo, para criar essa branch, é necessário coletar todos os arquivos *.orig,tar.gz do upstream e comitá-los em ordem. Esse processo foi feito de forma remota, porém estou aguardando finalizar a atualização 
+do pacote para gerar esse novo MR.
+
+Discussão sobre a branch pristine-tar também disponível na issue desse pacote.
+
 ### Guia de uso do ratt
 
 Durante o processo de contribuição do pacote do apimachinery, foi necessário rodar as suas dependências reversas no debian sid usando o ratt, o que para quem não está no ambiente Debian pode ser desafiador.
