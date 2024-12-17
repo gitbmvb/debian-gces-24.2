@@ -81,7 +81,7 @@ Após fazer os passos para atualização de pacote, quando o comando `gbp buildp
 
 O pacote python-braintree é uma biblioteca Python que oferece integração com o Braintree, uma plataforma de processamento de pagamentos online.
 
-![alt text](../img/python-braintree_ana.png.png)
+![alt text](../img/python-braintree_ana.png)
 
 
 
