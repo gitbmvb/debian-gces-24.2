@@ -29,8 +29,19 @@ E por fim, buildado novamente o pacote.
 ### Status da issue
 Foi aberto apenas um [MR](https://salsa.debian.org/python-team/packages/subliminal/-/merge_requests/3). O mesmo foi mergado dia 19/12/2024.
 
+## Atualização pacote Golang A8M tree
+
+No Merge Request, o revisor Carlos Henrique pontuou que deve-se verificar as dependências de determinadas bibliotecas utilizando o comando:
+
+```
+apt rdepends <name-of-the-package>
+```
+
+Oque não acusou nada negativo para o pacote em questão. Na sequência, foi comentado que há uma nova versão de política de empacotamento para tal pacote, sendo o objetivo agora realizar um bump de versão para este novo padrão.
+
 ## Versão
 
 | Versão |    Data    |         Descrição          |  Autor(es)  |
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 19/12/2024 | Criação de documento | Kauã |
+| `1.1`  | 03/01/2024 | Atualização de informações |Kauã|
