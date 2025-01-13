@@ -26,8 +26,30 @@ man subliminal
 ```
 E por fim, buildado novamente o pacote.
 
+### Status
+
+A issue ainda está sendo finalizada.
+
 ### Status da issue
 Foi aberto apenas um [MR](https://salsa.debian.org/python-team/packages/subliminal/-/merge_requests/3). O mesmo foi mergado dia 19/12/2024.
+
+## Issue 2
+
+Atualizar sua versão upstream
+
+
+## Pacote autocomplete
+
+AutoComplete é uma biblioteca de conclusão de código para Swing JTextComponents, com funcionalidade aprimorada disponível quando usada com seu projeto irmão RSyntaxTextArea.. Seu repositório no salsa esta disponível [neste link](https://salsa.debian.org/java-team/autocomplete). 
+
+### Issue
+
+O objetivo é realizar uma atualização upstream do pacote com a necessidade de aplicar patches.
+
+### Execução
+
+Ao realizar a tentativa de atualização upstream do código, o seguinte erro está sendo exibido:
+
 
 ## Atualização pacote Golang A8M tree
 
@@ -37,7 +59,8 @@ No Merge Request, o revisor Carlos Henrique pontuou que deve-se verificar as dep
 apt rdepends <name-of-the-package>
 ```
 
-Oque não acusou nada negativo para o pacote em questão. Na sequência, foi comentado que há uma nova versão de política de empacotamento para tal pacote, sendo o objetivo agora realizar um bump de versão para este novo padrão.
+Oque não acusou nada negativo para o pacote em questão. Na sequência, foi comentado que há uma nova versão de política de empacotamento para tal pacote, sendo o objetivo agora realizar um bump de versão para este novo padrão. Os demais pacotes não foram revisados ainda.
+
 
 ## Versão
 
@@ -45,3 +68,4 @@ Oque não acusou nada negativo para o pacote em questão. Na sequência, foi com
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 19/12/2024 | Criação de documento | Kauã |
 | `1.1`  | 03/01/2024 | Atualização de informações |Kauã|
+| `1.2`  | 13/01/2024 | Atualização de informações | Kauã|
