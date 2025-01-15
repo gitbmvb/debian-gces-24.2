@@ -1,5 +1,6 @@
 # Bruno Martins - Sprint 3
 O meu trabalho na terceira entrega concentrou-se em
+
 - Consertar pacotes que passaram por revisão nas sprints anteriores;
 - Atualizar a versão mainstream de pacotes novos;
 - Contribuir com a documentação.
