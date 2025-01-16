@@ -100,8 +100,14 @@ Vale ressaltar que em razão das festas de fim de ano, a maioria dos merge reque
 
 ## Outras Contribuições
 
+Além dos pacotes, eu me responsabilizei para atualizar a documentação, mais especificamente o [manual de atualização da versão upstream](https://wiki.debianbrasil.org.br/pt-br/empacotamento/atualizar-pacote-para-nova-versao-upstream). Inseri informações mais detalhadas e orientações em geral, tendo em vista os principais problemas enfrentados pela equipe na revisão dos MRs ao longo das 3 sprints. O build já foi realizado, portanto é possível ver as alterações na [Wiki Oficial do Debian Brasil](https://wiki.debianbrasil.org.br/pt-br/home).
+
+- [Commit c142f724](https://salsa.debian.org/debian-brasil-team/docs/-/commit/c142f724ebf49ac00f128614349db19263d24009)
+
+![](assets/bruno_docs.png)
 
 
 | Versão |    Data    |      Descrição       |                   Autor(es)                   |
 | :----: | :--------: | :------------------: | :-------------------------------------------: |
 | `1.0`  | 15/01/2025 | Criação do documento | [Bruno Martins](https://github.com/gitbmvb) |
+| `1.1`  | 16/01/2025 | Atualizações das contribuições | [Bruno Martins](https://github.com/gitbmvb) |
