@@ -29,7 +29,17 @@ O pacote foi enviado para merge e foi retornado com o seguinte feedback:
 
 ![Feedback a8m](../img/kaua_a8m_bump.PNG)
 
-Com isso, foi atualizado apenas a versão da pasta /debian, além disso, foi atualizado o mesmo de acordo com a seguinte [checklist](https://www.debian.org/doc/debian-policy/upgrading-checklist.html#upgrading-checklist).
+Com isso, foi atualizado apenas a versão da pasta /debian, além disso, foi atualizado o mesmo de acordo com a seguinte [checklist](https://www.debian.org/doc/debian-policy/upgrading-checklist.html#upgrading-checklist). No dia 29 de janeiro foi solicitado uma alteração quanto a boas práticas de commit, na qual foi atentida.
+
+## Pacote AutoComplete 
+
+O pacote está sendo desenvolvido no exato momento, todavia, enfrenta-se problemas com o java, o mesmo não está querendo gerar o .jar para ser executado pelo sbuild como evidenciado na imagem abaixo:
+
+![Erro Autocomplete](../img/kaua_autocomplete_erro.png)
+
+Atualmente, estou mechendo no arquivo d rules e tentando descobrir o problema dele não estar encontrando o .jar em questão, o arquivo está evidenciado abaixo:
+
+![Arquivo autocomplete](../img/kaua_autocomplete_jar.PNG)
 
 ## Versão
 
