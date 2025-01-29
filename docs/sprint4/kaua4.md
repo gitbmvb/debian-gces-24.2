@@ -39,10 +39,12 @@ O pacote está sendo desenvolvido no exato momento, todavia, enfrenta-se problem
 
 Atualmente, estou mechendo no arquivo d rules e tentando descobrir o problema dele não estar encontrando o .jar em questão, o arquivo está evidenciado abaixo:
 
-![Arquivo autocomplete](../img/kaua_autocomplete_jar.PNG)
+![Arquivo autocomplete](../img/kaua_autocomplete_jar.png)
 
 ## Versão
 
 | Versão |    Data    |         Descrição          |  Autor(es)  |
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 25/01/2025 | Criação de documento | Kauã |
+| `1.1`  | 29/01/2025 | Adição de informações | Kauã |
+
