@@ -84,6 +84,7 @@
 
 ![](assets/bruno_package8.png)
 
+## Histórico de Versões
 | Versão |    Data    |      Descrição       |                   Autor(es)                   |
 | :----: | :--------: | :------------------: | :-------------------------------------------: |
 | `1.0`  | 12/12/2024 | Criação do documento | [Bruno Martins](https://github.com/gitbmvb) |

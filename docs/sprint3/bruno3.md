@@ -107,6 +107,7 @@ Além dos pacotes, eu me responsabilizei para atualizar a documentação, mais e
 ![](assets/bruno_docs.png)
 
 
+## Histórico de Versões
 | Versão |    Data    |      Descrição       |                   Autor(es)                   |
 | :----: | :--------: | :------------------: | :-------------------------------------------: |
 | `1.0`  | 15/01/2025 | Criação do documento | [Bruno Martins](https://github.com/gitbmvb) |
