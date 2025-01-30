@@ -14,7 +14,7 @@ Por exemplo, ele pode sugerir substituir um for loop explícito por uma list com
 
 Quando foi executado o comando para gerar a nova versão do changelog, não refletiu para a nova versão. Então, foi corrigido manualmente e solicitado nova revisão.
 
-![Issue 401](/docs/img/sprint4.png)
+![Issue 401](../img/sprint4.png)
 
 ## Issue Package ruby-factory-bot #375
 
@@ -30,7 +30,7 @@ Ele é muito utilizado em testes automatizados para gerar instâncias de modelos
 
 Era necessário tirar uma patch do pacote, mas ao retirar e compilar novamente, constou o seguinte erro:
 
-![Issue 375](/docs/img/erro4-shaine.png)
+![Issue 375](../img/erro4-shaine.png)
 
 
 | Versão |    Data    |         Descrição          |  Autor(es)  |
