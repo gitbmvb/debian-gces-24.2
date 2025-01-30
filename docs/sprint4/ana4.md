@@ -51,7 +51,8 @@ o pacote  mas não foi possivel fazer o mesmo com o **Package tox (#409)** mesmo
 
 ### Sobre este pacote
 
-Utilizado para automação de deployments
+Capistrano é uma ferramenta de automação de deploy baseada em Ruby 
+que usa SSH para executar comandos remotamente, facilitando a implantação de aplicações.
 
 ![Issue](../img/ana4_capstrano.png)
 
