@@ -72,7 +72,7 @@ O faker ([repo no salsa](https://salsa.debian.org/python-team/packages/faker)) �
 
 ### Issue: [#400](https://salsa.debian.org/debian-brasil-team/docs/-/issues/400)
 
-Para a escolha do pacote, foram observadas sua página no tracker:
+Para a escolha do pacote, foi observada sua página no tracker:
 
 * [Link do Tracker](https://tracker.debian.org/pkg/faker)
  
@@ -82,7 +82,7 @@ A atualização do pacote se apresentou bem simples, não sendo necessário veri
 
 #### Status da issue
 
-Um [MR](https://salsa.debian.org/python-team/packages/faker/-/merge_requests/4) foi criado e começou a ser revisado pelo reviwe Sergio Durigan Junior. Em 16/01/2025, o MR ainda está em revisão.
+Um [MR](https://salsa.debian.org/python-team/packages/faker/-/merge_requests/4) foi criado e começou a ser revisado pelo reviwer Sergio Durigan Junior. Em 16/01/2025, o MR ainda está em revisão.
 
 ## Histórico de Versão
 
