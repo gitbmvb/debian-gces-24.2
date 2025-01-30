@@ -9,3 +9,13 @@ Esse pacote teve um processo interessante. O bug em questão ja havia sido resol
 [Link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/383)
 
 [Link do bug](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1045338)
+
+### Pacote rsync
+
+Esse pacote está me gerando problemas continuamente. O trabalho desse pacote é de fazer bons casos de teste e melhorar a cobertura do autopkgtest, o problema é que esse pacote é consideravelmente complexo, e ainda não conseguir criar casos de teste o suficiente.
+
+#### Autopkgtest
+
+O autopkgtest é um software que permite executar os testes do pacote que você está rodando localmente, além de rodar as suites de testes durante o processo de build.
+
+[Link da issue](https://salsa.debian.org/debian-brasil-team/docs/-/issues/403)
