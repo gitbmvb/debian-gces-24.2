@@ -4,7 +4,7 @@
 
 A ideia do pacote é realizar as seguintes tarefas:
 
-![aionotify](../img/kaua_ai_problems.png)
+![aionotify](../img/kaua_aionotify_problem.PNG)
 
 Com isso, foi executado o processo padrão de atualização de upstream foi executada com algumas variações:
 - Bump do standard-version do Debian;
