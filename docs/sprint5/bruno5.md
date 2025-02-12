@@ -4,7 +4,7 @@
 
 ### 1. flask-api
 
-- Descrição: 
+- Descrição: O pacote implementa uma api do framework flask do Python, bastante utilizado no contexto de desenvolvimento backend de várias aplicações.
 - Status (12/02/2025 às 02h30): **Review**
 - Tipo: Atualização da versão upstream
 - Revisores: *Livre*
@@ -16,7 +16,7 @@
 
 ### 2. python-kubernetes
 
-- Descrição: 
+- Descrição: Este pacote implementa um Python Client para a API do Kubernetes.
 - Status (12/02/2025 às 02h30): **Review**
 - Tipo: Atualização da versão upstream
 - Revisores: *Livre*
@@ -28,7 +28,7 @@
 
 ### 3. python-immutabledict
 
-- Descrição: 
+- Descrição: O pacote python-immutabledict implementa uma nova estrutura de dados na linguagem no Python, o dicionário imutável. 
 - Status (12/02/2025 às 02h30): **Review**
 - Tipo: Atualização da versão upstream
 - Revisores: *Livre*
@@ -40,7 +40,7 @@
 ## Resumo das issues
 | Pacotes (issues) assumidos | **To do** | **Doing** | **Review** | **Done (Merged)** |
 | :---: | :---: | :---: | :---: | :---: |
-| 22 | 1 | 1 | 12 | 6 |
+| 22 | 0 | 0 | 14 | 6 |
 
 Obs.: Apenas dois MRs foram recusados em razão de outros MRs que já estavam na fila.
 
