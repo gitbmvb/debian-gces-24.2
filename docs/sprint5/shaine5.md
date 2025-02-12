@@ -26,11 +26,11 @@ Ele é muito utilizado em testes automatizados para gerar instâncias de modelos
 
 ## Status da issue
 
-- Com problemas
+- Review
 
-Era necessário tirar uma patch do pacote, mas ao retirar e compilar novamente, constou o seguinte erro:
+Era necessário tirar uma patch do pacote, então eu removi a patch de teste 0005-skip-failing-test.patch, mudei o arquivo de serie.patch, adicionei essa alteração no changelog e consegui realizar o build do pacote.
 
-![Issue 375](../img/erro4-shaine.png)
+![Issue 375](../img/removePatch.png)
 
 
 
@@ -59,3 +59,4 @@ dpkg-buildpackage: error: debian/rules binary subprocess returned exit status 2"
 | Versão |    Data    |         Descrição          |  Autor(es)  |
 | :----: | :--------: | :------------------------: | :---------: |
 | `1.0`  | 12/02/2025 | Criação de documento | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| `1.1`  | 12/02/2025 | Correção de status da issue #375 | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
