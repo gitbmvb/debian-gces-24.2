@@ -42,7 +42,7 @@ O pacote ruby-concord é uma gem (biblioteca) para Ruby que fornece uma maneira 
 
 ## Status da issue
 
-- Com problemas
+- Review
 
 O erro indica que o dh_installdocs não conseguiu encontrar o arquivo README.md durante o processo de instalação dos documentos. O motivo mais provável é que o arquivo README.md não está presente no diretório onde o dh_installdocs está procurando, ou que ele não foi incluído corretamente no processo de build:
 
@@ -54,6 +54,10 @@ dpkg-buildpackage: error: debian/rules binary subprocess returned exit status 2"
 
 
 ![Issue 270](../img/erroSprint5.png)
+
+
+Mas foi feito o MR após correção.
+![Issue 270](../img/ruby-concord.png)
 
 
 | Versão |    Data    |         Descrição          |  Autor(es)  |
